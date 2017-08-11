@@ -1,7 +1,7 @@
 SpriteKit Smooth Sketch
 ===============
 
-This project tries to minimize lag with free hand drawing Spritekit apps by optimizing the number of nodes that are drawn on the screen from finger movement and eliminating the use of SKShapeNodes to output drawings. It uses bezier curves to calculate the movement of your sketch lines to produce very smooth streaks that follow your finger.
+This project tries to minimize lag with free hand drawing SpriteKit apps by optimizing the number of nodes that are drawn on the screen from finger movement and eliminating the use of SKShapeNodes to output drawings. It uses bezier curves to calculate the movement of your sketch lines to produce very smooth streaks that follow your finger.
 
 1. [Inspiration](#inspiration)
 1. [Demo](#demo)
