@@ -19,4 +19,4 @@ Freehand drawing is surprisingly difficult to implement properly on SpriteKit. T
 I came across this issue when developing my [Traffic Pal](https://itunes.apple.com/ca/app/traffic-pal/id1265505042?mt=8) app for iOS, which required free hand drawing. After developing this framework to maximize freehand drawing performance in my app, I decided to open source my work so that nobody has to spend countless hours researching and optimizing freehand drawing anymore.
 
 # Demo
-[![Demo](demo.gif)](https://www.youtube.com/watch?v=qU64Cm434h8)
+![Demo](demo.gif)
